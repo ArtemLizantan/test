@@ -1,0 +1,9 @@
+.logo{
+    @media (max-width: 1024px) {
+      img{
+        width: 100px;
+        height: 50px;
+        object-fit: unset !important;
+      }
+    }
+}
